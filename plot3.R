@@ -1,6 +1,6 @@
 Sys.setlocale("LC_TIME", "English")
 
-setwd("C:/Users/Pedro/projetos_R/EDA")
+setwd("~/GitHub/ExData_Plotting1")
 library(dplyr)
 library(lubridate)
 
